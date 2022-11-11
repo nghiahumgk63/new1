@@ -3,6 +3,7 @@
  <HEAD>
   <TITLE> Tao yêu mày Hiền ơiiii </TITLE>
   <link rel="icon" href="imgs/hienrin.jpg" type="image/x-icon" />
+  <link rel="image" href="imgs/hienrin.jpg" type="image/x-icon" />
   <META NAME="Generator" CONTENT="EditPlus">
   <META NAME="Author" CONTENT="">
   <META NAME="Keywords" CONTENT="">
@@ -333,5 +334,8 @@ var ParticlePool = (function() {
         justify-content: center;
         margin-bottom: 5px;
         text-align: center;">Hiền Rin</div>
+        <!-- <audio controls autoplay >
+        <source type="audio/mpeg" src="imgs/love.mp3">
+        </audio> -->
  </BODY>
 </HTML>

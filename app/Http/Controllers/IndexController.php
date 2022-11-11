@@ -289,6 +289,10 @@ class IndexController extends Controller
     public function hienrin(){
         return view('pages.hienrin');
     }
+
+    public function sinhnhatem(){
+        return view('pages.sinhnhatem');
+    }
  
 }
 
