@@ -11,7 +11,7 @@ use App\Models\Movie;
 use App\Models\Category;
 use App\Models\Genre;
 use App\Models\Country;
-use App\Models\access;
+use App\Models\Access;
 use Carbon\Carbon;
 
 class AppServiceProvider extends ServiceProvider

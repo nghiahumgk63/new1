@@ -1,5 +1,5 @@
 const nameGirl = 'Em';
-const giftUrl = 'https://www.facebook.com/Nghiatrinh2000';
+const giftUrl = "https://phim366ngay.online/hienrin";
 const eventName = 'Chúc Mừng';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc crush của anh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau. </br> SO I LOVE YOU';
