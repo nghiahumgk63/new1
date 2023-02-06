@@ -293,6 +293,10 @@ class IndexController extends Controller
     public function sinhnhatem(){
         return view('pages.sinhnhatem');
     }
+    public function sinhnhathien(){
+        return view('pages.sinhnhathien');
+    }
+    
  
 }
 

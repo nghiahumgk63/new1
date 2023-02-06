@@ -43,6 +43,7 @@ Route::get('/nam/{year}', [IndexController::class, 'year']);
 Route::get('/tag/{tag}', [IndexController::class, 'tag']);
 Route::get('/hienrin', [IndexController::class, 'hienrin']);
 Route::get('/sinh-nhat-em', [IndexController::class, 'sinhnhatem']);
+Route::get('/sinh-nhat-hien', [IndexController::class, 'sinhnhathien']);
 
 
 
